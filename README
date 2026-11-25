@@ -1,0 +1,5 @@
+### What's New in v1.0.5
+- **Rebranded to HackyTube:** Updated application name, window title, shortcuts, and installer to **HackyTube** (`powered by hackymax.fun`).
+- **New App Icon:** Added the new **HackyTube Ads Free** logo across the desktop app and installer.
+- **Built-in Ad-Blocking & SponsorBlock:** 0-second player ad stripping, network ad blocking, 100ms auto-skip fallback, and SponsorBlock integration.
+- **Navigation & PiP:** Theme-matched top-left Back button (`chevron-circle-left`), Picture-in-Picture (`Ctrl + Shift + P`) with auto-minimize/restore, and auto-updater support.
